@@ -40,7 +40,7 @@ const App = () => {
 
         {/* Footer */}
         <div className="footer">
-          {/* <Typography.Title
+          <Typography.Title
             level={5}
             style={{ color: "#fff", textAlign: "center" }}
           >
@@ -51,7 +51,7 @@ const App = () => {
             <Link to="/">Home</Link>
             <Link to="/cryptocurrencies">Cryptocurrencies</Link>
             <Link to="/news">News</Link>
-          </Space> */}
+          </Space>
         </div>
       </div>
     </div>
