@@ -26,7 +26,7 @@ const App = () => {
       {/* Main */}
       <div className="main">
         {/* Body */}
-        {/* <Layout>
+        <Layout>
           <div className="routes">
             <Routes>
               <Route path="/" element={<Homepage />} />
@@ -36,7 +36,7 @@ const App = () => {
               <Route path="/news" element={<News />} />
             </Routes>
           </div>
-        </Layout> */}
+        </Layout>
 
         {/* Footer */}
         <div className="footer">
